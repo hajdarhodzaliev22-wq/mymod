@@ -1,0 +1,22 @@
+{
+	 "geode": "3.0.0-beta.1",
+	  "gd": {
+	  	  "win": "2.204",
+	  	    "android": "2.204"
+	  	     },
+	  	      "id": "com.tvojnik.coolmod",
+	  	       "version": "1.0.0",
+	  	        "name": "My Cool Mod",
+	  	         "developer": "Ты",
+	  	          "description": "Мой первый мод, собранный на телефоне!",
+	  	           "dependencies": [
+	  	           	  {
+	  	           	  	   "id": "geode.loader",
+	  	           	  	      "version": "*"
+	  	           	  	        }
+	  	           	  	         ]
+	  	           	  	         }
+	  	           	  }
+	  	           ]
+	  }
+}
